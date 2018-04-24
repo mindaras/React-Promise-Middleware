@@ -1,0 +1,30 @@
+.user-list
+{
+  padding: 40px 80px;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-wrap: wrap;
+}
+.user
+{
+  width: 30%;
+  padding: 40px;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.user__name
+{
+  margin-bottom:  20px;
+}
+.user__position
+{
+  margin-bottom: 20px;
+}
+.user__website
+{
+  display: inline-block;
+  padding: 10px 15px;
+  border: 1px solid #000;
+}
